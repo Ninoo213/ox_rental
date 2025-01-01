@@ -22,7 +22,7 @@ A secure and user-friendly vehicle rental script for OX Core
 
 🛠️ **Installation**
 1. Download the files
-2. Place the `location` folder in your `resources` directory
+2. Place the `ox_rental` folder in your `resources` directory
 3. Add `ensure location` to your `server.cfg`
 4. Configure the script through `config.lua`
 
