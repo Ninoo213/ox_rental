@@ -10,10 +10,6 @@ A secure and user-friendly vehicle rental script for OX Core
 • Performance optimized
 
 🔧 **Supported Key Systems**
-• ox_vehiclekeys (recommended)
-• qs-vehiclekeys
-• wasabi_carlock
-• esx_vehiclelock
 
 ⚙️ **Dependencies**
 • [ox_lib](https://github.com/overextended/ox_lib)
